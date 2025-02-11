@@ -1,0 +1,13 @@
+.text{
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+
+        font-family: "Rubik Mono One", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+      
+.all{
+    background-color: seashell;
+}
